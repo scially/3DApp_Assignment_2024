@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.mylogo{
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    align-items: center;
+}
+
+.textsytle{
+    font-family: Courier, monospace;
+    font-style: italic;
+    color: #e2d1c3;
+}
+
+x3d{
+    height: 60vh;
+    width: 100vw;
+}
